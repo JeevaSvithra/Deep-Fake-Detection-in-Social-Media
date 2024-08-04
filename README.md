@@ -1,4 +1,4 @@
-# WWT_Hackathon
+# WWT_Hackathon - Team Odyssey
 Defending Truth in a Digital World.
 
 
@@ -19,3 +19,9 @@ Cloud Services: Google Cloud Storage for data storage, TensorFlow on Google Clou
 Databases: SQLite for metadata storage and management
 APIs: Kaggle API for dataset access and management
 Tools: NumPy, Pandas for data manipulation, Matplotlib for visualization, Git for version control
+
+# Team Members
+Jeeva Svithra S
+Akshitha Mary A C
+Thanvitha Nandakumar
+Stefani Jeyaseelan
